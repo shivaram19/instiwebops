@@ -428,11 +428,11 @@ Recipes
 .recipes-container{
 display: grid;
 gap: 2rem 1rem;
-border: 2px solid red;
+
 
 }
 .tags-container{
-  border:2px solid blue;
+
   order: 1;
   display: flex;
   flex-direction: column;
@@ -443,7 +443,8 @@ border: 2px solid red;
   display:grid;
   gap:2rem 1rem;
   padding-bottom:3rem;
-  border: 2px solid green;
+ 
+
 
 }
 .tags-container h4{
